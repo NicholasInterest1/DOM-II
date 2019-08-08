@@ -32,13 +32,3 @@ function myFunctionAgain() {
 
 //------------------------------DblClick--------------------------------------------------------------------
 
-  document.querySelectorAll("h2").addEventListener("dblclick", myFunction3);
-function myFunction3() {
-  document.querySelectorAll("h2").style.backgroundColor = "yellow";
-}
-
-// let hamburger = document.querySelector('img');
-
-// hamburger.addEventListener('dblclick', function (e) {
-//     hamburger.classList.toggle('large');
-// });
